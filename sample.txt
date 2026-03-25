@@ -1,0 +1,2 @@
+This file is created as part of a GitHub practice activity.
+I am learning how to use GitHub for projects, collaboration, and version control.
